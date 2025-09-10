@@ -16,6 +16,9 @@ Natural Language to SQL is a project that enables users to convert plain English
 
 - Python 3.7+
 - Required libraries (see `requirements.txt`)
+### Dataset
+
+Spider dataset (Subset used in this project)
 
 ### Installation
 
